@@ -1,0 +1,36 @@
+/Users/smitapatil/Projects/EverExpTimesheetAPI/EverExpTimesheetAPI.ExceptionHandling/bin/Debug/net5.0/EverExpTimesheetAPI.ExceptionHandling.deps.json
+/Users/smitapatil/Projects/EverExpTimesheetAPI/EverExpTimesheetAPI.ExceptionHandling/bin/Debug/net5.0/EverExpTimesheetAPI.ExceptionHandling.dll
+/Users/smitapatil/Projects/EverExpTimesheetAPI/EverExpTimesheetAPI.ExceptionHandling/bin/Debug/net5.0/EverExpTimesheetAPI.ExceptionHandling.pdb
+/Users/smitapatil/Projects/EverExpTimesheetAPI/EverExpTimesheetAPI.ExceptionHandling/obj/Debug/net5.0/EverExpTimesheetAPI.ExceptionHandling.csproj.AssemblyReference.cache
+/Users/smitapatil/Projects/EverExpTimesheetAPI/EverExpTimesheetAPI.ExceptionHandling/obj/Debug/net5.0/EverExpTimesheetAPI.ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/smitapatil/Projects/EverExpTimesheetAPI/EverExpTimesheetAPI.ExceptionHandling/obj/Debug/net5.0/EverExpTimesheetAPI.ExceptionHandling.AssemblyInfoInputs.cache
+/Users/smitapatil/Projects/EverExpTimesheetAPI/EverExpTimesheetAPI.ExceptionHandling/obj/Debug/net5.0/EverExpTimesheetAPI.ExceptionHandling.AssemblyInfo.cs
+/Users/smitapatil/Projects/EverExpTimesheetAPI/EverExpTimesheetAPI.ExceptionHandling/obj/Debug/net5.0/EverExpTimesheetAPI.ExceptionHandling.csproj.CoreCompileInputs.cache
+/Users/smitapatil/Projects/EverExpTimesheetAPI/EverExpTimesheetAPI.ExceptionHandling/obj/Debug/net5.0/EverExpTimesheetAPI.ExceptionHandling.dll
+/Users/smitapatil/Projects/EverExpTimesheetAPI/EverExpTimesheetAPI.ExceptionHandling/obj/Debug/net5.0/refint/EverExpTimesheetAPI.ExceptionHandling.dll
+/Users/smitapatil/Projects/EverExpTimesheetAPI/EverExpTimesheetAPI.ExceptionHandling/obj/Debug/net5.0/EverExpTimesheetAPI.ExceptionHandling.pdb
+/Users/smitapatil/Projects/EverExpTimesheetAPI/EverExpTimesheetAPI.ExceptionHandling/obj/Debug/net5.0/ref/EverExpTimesheetAPI.ExceptionHandling.dll
+/Users/smitapatil/Desktop/SmitaPatil/EverExpanseTimesheet/EverExpTimesheetAPI/EverExpTimesheetAPI.ExceptionHandling/bin/Debug/net5.0/EverExpTimesheetAPI.ExceptionHandling.deps.json
+/Users/smitapatil/Desktop/SmitaPatil/EverExpanseTimesheet/EverExpTimesheetAPI/EverExpTimesheetAPI.ExceptionHandling/bin/Debug/net5.0/EverExpTimesheetAPI.ExceptionHandling.dll
+/Users/smitapatil/Desktop/SmitaPatil/EverExpanseTimesheet/EverExpTimesheetAPI/EverExpTimesheetAPI.ExceptionHandling/bin/Debug/net5.0/EverExpTimesheetAPI.ExceptionHandling.pdb
+/Users/smitapatil/Desktop/SmitaPatil/EverExpanseTimesheet/EverExpTimesheetAPI/EverExpTimesheetAPI.ExceptionHandling/obj/Debug/net5.0/EverExpTimesheetAPI.ExceptionHandling.csproj.AssemblyReference.cache
+/Users/smitapatil/Desktop/SmitaPatil/EverExpanseTimesheet/EverExpTimesheetAPI/EverExpTimesheetAPI.ExceptionHandling/obj/Debug/net5.0/EverExpTimesheetAPI.ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/smitapatil/Desktop/SmitaPatil/EverExpanseTimesheet/EverExpTimesheetAPI/EverExpTimesheetAPI.ExceptionHandling/obj/Debug/net5.0/EverExpTimesheetAPI.ExceptionHandling.AssemblyInfoInputs.cache
+/Users/smitapatil/Desktop/SmitaPatil/EverExpanseTimesheet/EverExpTimesheetAPI/EverExpTimesheetAPI.ExceptionHandling/obj/Debug/net5.0/EverExpTimesheetAPI.ExceptionHandling.AssemblyInfo.cs
+/Users/smitapatil/Desktop/SmitaPatil/EverExpanseTimesheet/EverExpTimesheetAPI/EverExpTimesheetAPI.ExceptionHandling/obj/Debug/net5.0/EverExpTimesheetAPI.ExceptionHandling.csproj.CoreCompileInputs.cache
+/Users/smitapatil/Desktop/SmitaPatil/EverExpanseTimesheet/EverExpTimesheetAPI/EverExpTimesheetAPI.ExceptionHandling/obj/Debug/net5.0/EverExpTimesheetAPI.ExceptionHandling.dll
+/Users/smitapatil/Desktop/SmitaPatil/EverExpanseTimesheet/EverExpTimesheetAPI/EverExpTimesheetAPI.ExceptionHandling/obj/Debug/net5.0/refint/EverExpTimesheetAPI.ExceptionHandling.dll
+/Users/smitapatil/Desktop/SmitaPatil/EverExpanseTimesheet/EverExpTimesheetAPI/EverExpTimesheetAPI.ExceptionHandling/obj/Debug/net5.0/EverExpTimesheetAPI.ExceptionHandling.pdb
+/Users/smitapatil/Desktop/SmitaPatil/EverExpanseTimesheet/EverExpTimesheetAPI/EverExpTimesheetAPI.ExceptionHandling/obj/Debug/net5.0/ref/EverExpTimesheetAPI.ExceptionHandling.dll
+/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.ExceptionHandling/bin/Debug/net5.0/EverExpTimesheetAPI.ExceptionHandling.deps.json
+/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.ExceptionHandling/bin/Debug/net5.0/EverExpTimesheetAPI.ExceptionHandling.dll
+/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.ExceptionHandling/bin/Debug/net5.0/EverExpTimesheetAPI.ExceptionHandling.pdb
+/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.ExceptionHandling/obj/Debug/net5.0/EverExpTimesheetAPI.ExceptionHandling.csproj.AssemblyReference.cache
+/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.ExceptionHandling/obj/Debug/net5.0/EverExpTimesheetAPI.ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.ExceptionHandling/obj/Debug/net5.0/EverExpTimesheetAPI.ExceptionHandling.AssemblyInfoInputs.cache
+/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.ExceptionHandling/obj/Debug/net5.0/EverExpTimesheetAPI.ExceptionHandling.AssemblyInfo.cs
+/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.ExceptionHandling/obj/Debug/net5.0/EverExpTimesheetAPI.ExceptionHandling.csproj.CoreCompileInputs.cache
+/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.ExceptionHandling/obj/Debug/net5.0/EverExpTimesheetAPI.ExceptionHandling.dll
+/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.ExceptionHandling/obj/Debug/net5.0/refint/EverExpTimesheetAPI.ExceptionHandling.dll
+/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.ExceptionHandling/obj/Debug/net5.0/EverExpTimesheetAPI.ExceptionHandling.pdb
+/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.ExceptionHandling/obj/Debug/net5.0/ref/EverExpTimesheetAPI.ExceptionHandling.dll

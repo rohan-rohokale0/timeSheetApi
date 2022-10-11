@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Business\" />
+    <None Remove="Infrastructure\" />
+    <None Remove="Repository\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Business\" />
+    <Folder Include="Infrastructure\" />
+    <Folder Include="Repository\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EverExpTimesheetAPI.DataContext\EverExpTimesheetAPI.DataContext.csproj" />
+    <ProjectReference Include="..\EverExpTimesheetAPI.ViewModel\EverExpTimesheetAPI.ViewModel.csproj" />
+  </ItemGroup>
+</Project>

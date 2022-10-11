@@ -1,0 +1,65 @@
+﻿<Properties StartupConfiguration="{D477FAC0-950B-4977-9450-78B74D87865D}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.EverExpTimesheetAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EverExpTimesheetAPI.Business/CommonBusiness.cs">
+    <Files>
+      <File FileName="EverExpTimesheetAPI.Repository/DBRepository/TypeRepository.cs" Line="12" Column="10" />
+      <File FileName="EverExpTimesheetAPI.Repository/DBRepository/RoleRepository.cs" Line="8" Column="73" />
+      <File FileName="EverExpTimesheetAPI.Contract/Repository/ITypeRepository.cs" Line="7" Column="37" />
+      <File FileName="EverExpTimesheetAPI.Contract/Repository/IRoleRepository.cs" Line="7" Column="75" />
+      <File FileName="EverExpTimesheetAPI.Business/CommonBusiness.cs" Line="103" Column="1" />
+      <File FileName="EverExpTimesheetAPI.Contract/Business/ICommonBusiness.cs" Line="20" Column="47" />
+      <File FileName="EverExpTimesheetAPI.Contract/Business/ITypeBusiness.cs" Line="12" Column="1" />
+      <File FileName="EverExpTimesheetAPI.Contract/Business/IRoleBusiness.cs" Line="12" Column="1" />
+      <File FileName="EverExpTimesheetAPI.DataContext/DataContext/TimesheetContext.cs" Line="31" Column="1" />
+      <File FileName="EverExpTimesheetAPI/DependencyInjection/DependenceInjectionContainer.cs" Line="32" Column="71" />
+      <File FileName="EverExpTimesheetAPI.ViewModel/ViewModel/MasterViewModel.cs" Line="18" Column="1" />
+      <File FileName="EverExpTimesheetAPI.Contract/Repository/IApproverRepository.cs" Line="1" Column="1" />
+      <File FileName="EverExpTimesheetAPI.Repository/DBRepository/ApproverRepository.cs" Line="1" Column="1" />
+      <File FileName="EverExpTimesheetAPI/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="EverExpTimesheetAPI/appsettings.json" Line="14" Column="134" />
+      <File FileName="EverExpTimesheetAPI/Properties/launchSettings.json" Line="11" Column="16" />
+      <File FileName="EverExpTimesheetAPI/Startup.cs" Line="1" Column="1" />
+      <File FileName="EverExpTimesheetAPI/Program.cs" Line="16" Column="1" />
+      <File FileName="EverExpTimesheetAPI/Controllers/CommonController.cs" Line="43" Column="1" />
+      <File FileName="EverExpTimesheetAPI.DataContext/Models/mDepartment.cs" Line="1" Column="1" />
+      <File FileName="EverExpTimesheetAPI/Controllers/EmpBasicDetailController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EverExpTimesheetAPI" expanded="True">
+            <Node name="EverExpTimesheetAPI" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+            </Node>
+            <Node name="EverExpTimesheetAPI.Business" expanded="True">
+              <Node name="CommonBusiness.cs" selected="True" />
+            </Node>
+            <Node name="EverExpTimesheetAPI.Contract" expanded="True" />
+            <Node name="EverExpTimesheetAPI.ExceptionHandling" expanded="True" />
+            <Node name="EverExpTimesheetAPI.LoggerConfiguration" expanded="True" />
+            <Node name="EverExpTimesheetAPI.Repository" expanded="True">
+              <Node name="CommonRepository" expanded="True" />
+              <Node name="DBRepository" expanded="True" />
+            </Node>
+            <Node name="EverExpTimesheetAPI.ViewModel" expanded="True">
+              <Node name="ViewModel" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI/Controllers/CommonController.cs" relfile="EverExpTimesheetAPI/Controllers/CommonController.cs" line="40" column="1" />
+      <Breakpoint file="/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.Business/CommonBusiness.cs" relfile="EverExpTimesheetAPI.Business/CommonBusiness.cs" line="97" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

@@ -1,0 +1,515 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI/EverExpTimesheetAPI.csproj": {}
+  },
+  "projects": {
+    "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.Business/EverExpTimesheetAPI.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.Business/EverExpTimesheetAPI.Business.csproj",
+        "projectName": "EverExpTimesheetAPI.Business",
+        "projectPath": "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.Business/EverExpTimesheetAPI.Business.csproj",
+        "packagesPath": "/Users/dhanashreegore/.nuget/packages/",
+        "outputPath": "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.Business/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dhanashreegore/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.Contract/EverExpTimesheetAPI.Contract.csproj": {
+                "projectPath": "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.Contract/EverExpTimesheetAPI.Contract.csproj"
+              },
+              "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.DataContext/EverExpTimesheetAPI.DataContext.csproj": {
+                "projectPath": "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.DataContext/EverExpTimesheetAPI.DataContext.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.Contract/EverExpTimesheetAPI.Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.Contract/EverExpTimesheetAPI.Contract.csproj",
+        "projectName": "EverExpTimesheetAPI.Contract",
+        "projectPath": "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.Contract/EverExpTimesheetAPI.Contract.csproj",
+        "packagesPath": "/Users/dhanashreegore/.nuget/packages/",
+        "outputPath": "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.Contract/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dhanashreegore/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.DataContext/EverExpTimesheetAPI.DataContext.csproj": {
+                "projectPath": "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.DataContext/EverExpTimesheetAPI.DataContext.csproj"
+              },
+              "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.ViewModel/EverExpTimesheetAPI.ViewModel.csproj": {
+                "projectPath": "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.ViewModel/EverExpTimesheetAPI.ViewModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.DataContext/EverExpTimesheetAPI.DataContext.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.DataContext/EverExpTimesheetAPI.DataContext.csproj",
+        "projectName": "EverExpTimesheetAPI.DataContext",
+        "projectPath": "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.DataContext/EverExpTimesheetAPI.DataContext.csproj",
+        "packagesPath": "/Users/dhanashreegore/.nuget/packages/",
+        "outputPath": "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.DataContext/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dhanashreegore/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.ExceptionHandling/EverExpTimesheetAPI.ExceptionHandling.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.ExceptionHandling/EverExpTimesheetAPI.ExceptionHandling.csproj",
+        "projectName": "EverExpTimesheetAPI.ExceptionHandling",
+        "projectPath": "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.ExceptionHandling/EverExpTimesheetAPI.ExceptionHandling.csproj",
+        "packagesPath": "/Users/dhanashreegore/.nuget/packages/",
+        "outputPath": "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.ExceptionHandling/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dhanashreegore/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.LoggerConfiguration/EverExpTimesheetAPI.LoggerConfiguration.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.LoggerConfiguration/EverExpTimesheetAPI.LoggerConfiguration.csproj",
+        "projectName": "EverExpTimesheetAPI.LoggerConfiguration",
+        "projectPath": "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.LoggerConfiguration/EverExpTimesheetAPI.LoggerConfiguration.csproj",
+        "packagesPath": "/Users/dhanashreegore/.nuget/packages/",
+        "outputPath": "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.LoggerConfiguration/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dhanashreegore/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.Repository/EverExpTimesheetAPI.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.Repository/EverExpTimesheetAPI.Repository.csproj",
+        "projectName": "EverExpTimesheetAPI.Repository",
+        "projectPath": "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.Repository/EverExpTimesheetAPI.Repository.csproj",
+        "packagesPath": "/Users/dhanashreegore/.nuget/packages/",
+        "outputPath": "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.Repository/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dhanashreegore/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.Contract/EverExpTimesheetAPI.Contract.csproj": {
+                "projectPath": "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.Contract/EverExpTimesheetAPI.Contract.csproj"
+              },
+              "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.DataContext/EverExpTimesheetAPI.DataContext.csproj": {
+                "projectPath": "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.DataContext/EverExpTimesheetAPI.DataContext.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.ViewModel/EverExpTimesheetAPI.ViewModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.ViewModel/EverExpTimesheetAPI.ViewModel.csproj",
+        "projectName": "EverExpTimesheetAPI.ViewModel",
+        "projectPath": "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.ViewModel/EverExpTimesheetAPI.ViewModel.csproj",
+        "packagesPath": "/Users/dhanashreegore/.nuget/packages/",
+        "outputPath": "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.ViewModel/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dhanashreegore/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.DataContext/EverExpTimesheetAPI.DataContext.csproj": {
+                "projectPath": "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.DataContext/EverExpTimesheetAPI.DataContext.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI/EverExpTimesheetAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI/EverExpTimesheetAPI.csproj",
+        "projectName": "EverExpTimesheetAPI",
+        "projectPath": "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI/EverExpTimesheetAPI.csproj",
+        "packagesPath": "/Users/dhanashreegore/.nuget/packages/",
+        "outputPath": "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dhanashreegore/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.Business/EverExpTimesheetAPI.Business.csproj": {
+                "projectPath": "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.Business/EverExpTimesheetAPI.Business.csproj"
+              },
+              "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.Contract/EverExpTimesheetAPI.Contract.csproj": {
+                "projectPath": "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.Contract/EverExpTimesheetAPI.Contract.csproj"
+              },
+              "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.ExceptionHandling/EverExpTimesheetAPI.ExceptionHandling.csproj": {
+                "projectPath": "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.ExceptionHandling/EverExpTimesheetAPI.ExceptionHandling.csproj"
+              },
+              "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.LoggerConfiguration/EverExpTimesheetAPI.LoggerConfiguration.csproj": {
+                "projectPath": "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.LoggerConfiguration/EverExpTimesheetAPI.LoggerConfiguration.csproj"
+              },
+              "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.Repository/EverExpTimesheetAPI.Repository.csproj": {
+                "projectPath": "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.Repository/EverExpTimesheetAPI.Repository.csproj"
+              },
+              "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.ViewModel/EverExpTimesheetAPI.ViewModel.csproj": {
+                "projectPath": "/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.ViewModel/EverExpTimesheetAPI.ViewModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

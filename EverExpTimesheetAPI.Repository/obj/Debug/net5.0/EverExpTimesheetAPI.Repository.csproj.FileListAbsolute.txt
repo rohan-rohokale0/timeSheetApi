@@ -1,0 +1,57 @@
+/Users/smitapatil/Projects/EverExpTimesheetAPI/EverExpTimesheetAPI.Repository/bin/Debug/net5.0/EverExpTimesheetAPI.Repository.deps.json
+/Users/smitapatil/Projects/EverExpTimesheetAPI/EverExpTimesheetAPI.Repository/bin/Debug/net5.0/EverExpTimesheetAPI.Repository.dll
+/Users/smitapatil/Projects/EverExpTimesheetAPI/EverExpTimesheetAPI.Repository/bin/Debug/net5.0/EverExpTimesheetAPI.Repository.pdb
+/Users/smitapatil/Projects/EverExpTimesheetAPI/EverExpTimesheetAPI.Repository/obj/Debug/net5.0/EverExpTimesheetAPI.Repository.csproj.AssemblyReference.cache
+/Users/smitapatil/Projects/EverExpTimesheetAPI/EverExpTimesheetAPI.Repository/obj/Debug/net5.0/EverExpTimesheetAPI.Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/smitapatil/Projects/EverExpTimesheetAPI/EverExpTimesheetAPI.Repository/obj/Debug/net5.0/EverExpTimesheetAPI.Repository.AssemblyInfoInputs.cache
+/Users/smitapatil/Projects/EverExpTimesheetAPI/EverExpTimesheetAPI.Repository/obj/Debug/net5.0/EverExpTimesheetAPI.Repository.AssemblyInfo.cs
+/Users/smitapatil/Projects/EverExpTimesheetAPI/EverExpTimesheetAPI.Repository/obj/Debug/net5.0/EverExpTimesheetAPI.Repository.csproj.CoreCompileInputs.cache
+/Users/smitapatil/Projects/EverExpTimesheetAPI/EverExpTimesheetAPI.Repository/obj/Debug/net5.0/EverExpTimesheetAPI.Repository.dll
+/Users/smitapatil/Projects/EverExpTimesheetAPI/EverExpTimesheetAPI.Repository/obj/Debug/net5.0/refint/EverExpTimesheetAPI.Repository.dll
+/Users/smitapatil/Projects/EverExpTimesheetAPI/EverExpTimesheetAPI.Repository/obj/Debug/net5.0/EverExpTimesheetAPI.Repository.pdb
+/Users/smitapatil/Projects/EverExpTimesheetAPI/EverExpTimesheetAPI.Repository/obj/Debug/net5.0/ref/EverExpTimesheetAPI.Repository.dll
+/Users/smitapatil/Projects/EverExpTimesheetAPI/EverExpTimesheetAPI.Repository/bin/Debug/net5.0/EverExpTimesheetAPI.Contract.dll
+/Users/smitapatil/Projects/EverExpTimesheetAPI/EverExpTimesheetAPI.Repository/bin/Debug/net5.0/EverExpTimesheetAPI.DataContext.dll
+/Users/smitapatil/Projects/EverExpTimesheetAPI/EverExpTimesheetAPI.Repository/bin/Debug/net5.0/EverExpTimesheetAPI.ViewModel.dll
+/Users/smitapatil/Projects/EverExpTimesheetAPI/EverExpTimesheetAPI.Repository/bin/Debug/net5.0/EverExpTimesheetAPI.Contract.pdb
+/Users/smitapatil/Projects/EverExpTimesheetAPI/EverExpTimesheetAPI.Repository/bin/Debug/net5.0/EverExpTimesheetAPI.DataContext.pdb
+/Users/smitapatil/Projects/EverExpTimesheetAPI/EverExpTimesheetAPI.Repository/bin/Debug/net5.0/EverExpTimesheetAPI.ViewModel.pdb
+/Users/smitapatil/Projects/EverExpTimesheetAPI/EverExpTimesheetAPI.Repository/obj/Debug/net5.0/EverExpTimesheetAPI.Repository.csproj.CopyComplete
+/Users/smitapatil/Desktop/SmitaPatil/EverExpanseTimesheet/EverExpTimesheetAPI/EverExpTimesheetAPI.Repository/bin/Debug/net5.0/EverExpTimesheetAPI.Repository.deps.json
+/Users/smitapatil/Desktop/SmitaPatil/EverExpanseTimesheet/EverExpTimesheetAPI/EverExpTimesheetAPI.Repository/bin/Debug/net5.0/EverExpTimesheetAPI.Repository.dll
+/Users/smitapatil/Desktop/SmitaPatil/EverExpanseTimesheet/EverExpTimesheetAPI/EverExpTimesheetAPI.Repository/bin/Debug/net5.0/EverExpTimesheetAPI.Repository.pdb
+/Users/smitapatil/Desktop/SmitaPatil/EverExpanseTimesheet/EverExpTimesheetAPI/EverExpTimesheetAPI.Repository/bin/Debug/net5.0/EverExpTimesheetAPI.Contract.dll
+/Users/smitapatil/Desktop/SmitaPatil/EverExpanseTimesheet/EverExpTimesheetAPI/EverExpTimesheetAPI.Repository/bin/Debug/net5.0/EverExpTimesheetAPI.DataContext.dll
+/Users/smitapatil/Desktop/SmitaPatil/EverExpanseTimesheet/EverExpTimesheetAPI/EverExpTimesheetAPI.Repository/bin/Debug/net5.0/EverExpTimesheetAPI.ViewModel.dll
+/Users/smitapatil/Desktop/SmitaPatil/EverExpanseTimesheet/EverExpTimesheetAPI/EverExpTimesheetAPI.Repository/bin/Debug/net5.0/EverExpTimesheetAPI.Contract.pdb
+/Users/smitapatil/Desktop/SmitaPatil/EverExpanseTimesheet/EverExpTimesheetAPI/EverExpTimesheetAPI.Repository/bin/Debug/net5.0/EverExpTimesheetAPI.DataContext.pdb
+/Users/smitapatil/Desktop/SmitaPatil/EverExpanseTimesheet/EverExpTimesheetAPI/EverExpTimesheetAPI.Repository/bin/Debug/net5.0/EverExpTimesheetAPI.ViewModel.pdb
+/Users/smitapatil/Desktop/SmitaPatil/EverExpanseTimesheet/EverExpTimesheetAPI/EverExpTimesheetAPI.Repository/obj/Debug/net5.0/EverExpTimesheetAPI.Repository.csproj.AssemblyReference.cache
+/Users/smitapatil/Desktop/SmitaPatil/EverExpanseTimesheet/EverExpTimesheetAPI/EverExpTimesheetAPI.Repository/obj/Debug/net5.0/EverExpTimesheetAPI.Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/smitapatil/Desktop/SmitaPatil/EverExpanseTimesheet/EverExpTimesheetAPI/EverExpTimesheetAPI.Repository/obj/Debug/net5.0/EverExpTimesheetAPI.Repository.AssemblyInfoInputs.cache
+/Users/smitapatil/Desktop/SmitaPatil/EverExpanseTimesheet/EverExpTimesheetAPI/EverExpTimesheetAPI.Repository/obj/Debug/net5.0/EverExpTimesheetAPI.Repository.AssemblyInfo.cs
+/Users/smitapatil/Desktop/SmitaPatil/EverExpanseTimesheet/EverExpTimesheetAPI/EverExpTimesheetAPI.Repository/obj/Debug/net5.0/EverExpTimesheetAPI.Repository.csproj.CoreCompileInputs.cache
+/Users/smitapatil/Desktop/SmitaPatil/EverExpanseTimesheet/EverExpTimesheetAPI/EverExpTimesheetAPI.Repository/obj/Debug/net5.0/EverExpTimesheetAPI.Repository.csproj.CopyComplete
+/Users/smitapatil/Desktop/SmitaPatil/EverExpanseTimesheet/EverExpTimesheetAPI/EverExpTimesheetAPI.Repository/obj/Debug/net5.0/EverExpTimesheetAPI.Repository.dll
+/Users/smitapatil/Desktop/SmitaPatil/EverExpanseTimesheet/EverExpTimesheetAPI/EverExpTimesheetAPI.Repository/obj/Debug/net5.0/refint/EverExpTimesheetAPI.Repository.dll
+/Users/smitapatil/Desktop/SmitaPatil/EverExpanseTimesheet/EverExpTimesheetAPI/EverExpTimesheetAPI.Repository/obj/Debug/net5.0/EverExpTimesheetAPI.Repository.pdb
+/Users/smitapatil/Desktop/SmitaPatil/EverExpanseTimesheet/EverExpTimesheetAPI/EverExpTimesheetAPI.Repository/obj/Debug/net5.0/ref/EverExpTimesheetAPI.Repository.dll
+/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.Repository/bin/Debug/net5.0/EverExpTimesheetAPI.Repository.deps.json
+/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.Repository/bin/Debug/net5.0/EverExpTimesheetAPI.Repository.dll
+/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.Repository/bin/Debug/net5.0/EverExpTimesheetAPI.Repository.pdb
+/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.Repository/bin/Debug/net5.0/EverExpTimesheetAPI.Contract.dll
+/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.Repository/bin/Debug/net5.0/EverExpTimesheetAPI.DataContext.dll
+/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.Repository/bin/Debug/net5.0/EverExpTimesheetAPI.ViewModel.dll
+/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.Repository/bin/Debug/net5.0/EverExpTimesheetAPI.Contract.pdb
+/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.Repository/bin/Debug/net5.0/EverExpTimesheetAPI.DataContext.pdb
+/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.Repository/bin/Debug/net5.0/EverExpTimesheetAPI.ViewModel.pdb
+/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.Repository/obj/Debug/net5.0/EverExpTimesheetAPI.Repository.csproj.AssemblyReference.cache
+/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.Repository/obj/Debug/net5.0/EverExpTimesheetAPI.Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.Repository/obj/Debug/net5.0/EverExpTimesheetAPI.Repository.AssemblyInfoInputs.cache
+/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.Repository/obj/Debug/net5.0/EverExpTimesheetAPI.Repository.AssemblyInfo.cs
+/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.Repository/obj/Debug/net5.0/EverExpTimesheetAPI.Repository.csproj.CoreCompileInputs.cache
+/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.Repository/obj/Debug/net5.0/EverExpTimesheetAPI.Repository.csproj.CopyComplete
+/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.Repository/obj/Debug/net5.0/EverExpTimesheetAPI.Repository.dll
+/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.Repository/obj/Debug/net5.0/refint/EverExpTimesheetAPI.Repository.dll
+/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.Repository/obj/Debug/net5.0/EverExpTimesheetAPI.Repository.pdb
+/Users/dhanashreegore/Downloads/EverExpTimesheetAPI 2/EverExpTimesheetAPI.Repository/obj/Debug/net5.0/ref/EverExpTimesheetAPI.Repository.dll
